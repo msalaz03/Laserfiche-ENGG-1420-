@@ -1,0 +1,33 @@
+{
+"name": "First Scenario",
+"processing_elements": [
+{
+"type": "NameFilter",
+"input_entries": [
+{
+"type": "remote"
+"repoId": "r-0001d410ba56"
+"entryId": "26"
+
+"type": "local",
+"path": "C:\Users\walke\OneDrive\Documents\GitHub\Engg1420-Project\Project\src\main\java\com\mycompany\Project\LoremIpsum2penguin.txt"
+
+"type": "local",
+"path": "C:\Users\walke\OneDrive\Documents\GitHub\Engg1420-Project\Project\src\main\java\com\mycompany\Project\LoremIpsum2penguin.txt"
+}
+]
+"parameters": [
+{
+"name": "key",
+"value": "Lorem"
+},
+]
+{
+"type": "Print",
+"input_entries": [],
+"parameters": []
+}
+}
+]
+}
+

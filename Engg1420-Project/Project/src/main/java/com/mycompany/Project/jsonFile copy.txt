@@ -1,0 +1,19 @@
+{
+"name": "First Scenario",
+"processing_elements": [
+{
+"type": "Split",
+"input_entries": [
+{
+"type": "RemotE",
+"entryID": "26" 
+"repoid" : "r-0001d410ba56 " 
+}
+]
+{
+"name": "Lines",
+"value": "4"
+}
+}
+]
+}
